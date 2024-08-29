@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">Software Developer at ABB GISPL</h3>
+<h3 align="center">Software Developer at ABB </h3>
 
 <p align="center">
   <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on **React, JavaScript, Node.js, and TypeScript**.
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com)
+- 👨‍💻 All of my projects are available at [My Portfolio](Coming Soon...)
 
 - 💬 Ask me about **Frontend Development, React, JavaScript, and DSA**.
 
-- 📫 How to reach me **your-email@example.com**
+- 📫 How to reach me **ayush.chaudhari8@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://your-resume-link.com)
+- 📄 Know about my experiences [My Resume]([https://your-resume-link.com](https://drive.google.com/file/d/1PfqoNOFZwMnIw8-ui4kB0wGuqh0CowCV/view?usp=drivesdk))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
