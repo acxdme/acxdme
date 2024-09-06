@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ayush.chaudhari8@gmail.com**
 
-- 📄 Know about my experiences [My Resume]([https://your-resume-link.com](https://drive.google.com/file/d/1PfqoNOFZwMnIw8-ui4kB0wGuqh0CowCV/view?usp=drivesdk))
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1PfqoNOFZwMnIw8-ui4kB0wGuqh0CowCV/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
